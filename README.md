@@ -2,4 +2,4 @@
 one for the books
 
 Ahoy,
-I'm a dropout learning python in hopes of one day paying some bills.
+I'm a a computer science student learning java hoping to pay some bills one day
